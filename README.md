@@ -74,3 +74,8 @@ Through this task, I gained valuable experience in:
 @ Creating and running testbenches to verify functionality.
 
 @ Using Vivado simulation tools to view memory behavior and debug designs.
+
+# Schematic & outputwaveforms
+
+![Image](https://github.com/user-attachments/assets/2c9ba605-4d78-427a-a064-adf04f89817a)
+![Image](https://github.com/user-attachments/assets/0a2fd166-6b47-408c-8dae-4af1ff8d33f3)
