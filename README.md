@@ -12,9 +12,6 @@
 
 *MENTOR* : VAISHALI
 
-# Task 2: Design and Simulation of a Simple Synchronous RAM Module
-As part of the second milestone in my VLSI internship at Codtech IT Solutions Pvt. Ltd., I was assigned the task of designing a synchronous Random Access Memory (RAM) module using Verilog HDL. The purpose of this task was to build a foundational understanding of how digital memory elements function at the hardware level and how they interact with other parts of a digital system such as the CPU or control logic. The design was synthesized, simulated, and functionally verified using Xilinx Vivado, a widely-used FPGA development and simulation tool.
-
 # About the Task
 The task required me to develop a basic RAM block capable of performing read and write operations synchronously with a clock signal. The RAM had an 8-bit data width and supported up to 256 memory locations, addressed using an 8-bit address bus. The design featured three main input signals:
 
